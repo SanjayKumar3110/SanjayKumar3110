@@ -10,27 +10,15 @@ I enjoy working on end-to-end AI projects — from data cleaning and feature eng
 
 ## 🧠 What I Do
 
-* ⚙️ Build Machine Learning & Deep Learning models
-* 📊 Analyze and visualize datasets for actionable insights
-* 🤖 Work on NLP, CNNs, LSTMs, and fine-tuning language models
-* 📚 Explore research topics in AI & Data Science
-* 🧪 Implement ML/DL algorithms from scratch to deepen understanding
+* Build ML & DL models
+* Work with NLP, CNNs, LSTMs
+* Analyze and visualize datasets
+* Fine-tune models and explore AI techniques
 
 ---
 
-## 🚀 Skills
+## 🎯 Currently Learning
 
-**Languages:** Python, R, SQL
-**Frameworks:** TensorFlow, Keras, PyTorch
-**Tools:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-**Special Interests:** NLP, RAG Systems, Reinforcement Learning, AI Engineering
-
----
-
-## 🎯 What I'm Currently Learning
-
-* Building scalable AI systems
-* LLM fine-tuning & optimization
-* Reinforcement Learning & strategy-based trading agents
-
----
+* Scalable AI systems
+* LLM fine-tuning
+* Reinforcement Learning for trading
