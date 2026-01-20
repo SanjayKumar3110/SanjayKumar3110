@@ -21,4 +21,5 @@ I enjoy working on end-to-end AI projects — from data cleaning and feature eng
 
 * Scalable AI systems
 * LLM fine-tuning
-* Reinforcement Learning for trading
+* Reinforcement Learning
+* Automation with AI
