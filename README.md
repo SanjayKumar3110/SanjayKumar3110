@@ -14,6 +14,7 @@ I enjoy working on end-to-end AI projects — from data cleaning and feature eng
 * Work with NLP, CNNs, LSTMs
 * Analyze and visualize datasets
 * Fine-tune models and explore AI techniques
+* Deploy ML models to production
 
 ---
 
@@ -23,3 +24,40 @@ I enjoy working on end-to-end AI projects — from data cleaning and feature eng
 * LLM fine-tuning
 * Reinforcement Learning
 * Automation with AI
+* MLOps & Model Deployment
+
+---
+
+## 💻 Tech Stack
+
+**Languages:** Python, SQL, R, JavaScript
+**ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-learn, XGBoost
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+**Databases:** PostgreSQL, MongoDB, MySQL
+**Cloud & Tools:** Git, Docker, AWS, Google Cloud, Jupyter Notebook
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjayKumar3110&show_icons=true&theme=dark)
+
+---
+
+## 🔗 Connect With Me
+
+* **GitHub:** [SanjayKumar3110](https://github.com/SanjayKumar3110)
+* **Email:** Open for collaborations and opportunities!
+
+---
+
+## 🎓 Highlights
+
+- 📈 Working on real-world ML projects with practical impact
+- 🤖 Exploring state-of-the-art AI techniques
+- 💡 Always learning and improving my skills
+- 🚀 Interested in AI applications and automation
+
+---
+
+**Last Updated:** 2026-03-17
