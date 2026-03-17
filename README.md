@@ -44,20 +44,11 @@ I enjoy working on end-to-end AI projects — from data cleaning and feature eng
 
 ---
 
-## 🔗 Connect With Me
-
-* **GitHub:** [SanjayKumar3110](https://github.com/SanjayKumar3110)
-* **Email:** Open for collaborations and opportunities!
-
----
-
 ## 🎓 Highlights
 
-- 📈 Working on real-world ML projects with practical impact
-- 🤖 Exploring state-of-the-art AI techniques
-- 💡 Always learning and improving my skills
-- 🚀 Interested in AI applications and automation
+-  Working on real-world ML projects with practical impact
+-  Exploring state-of-the-art AI techniques
+-  Always learning and improving my skills
+-  Interested in AI applications and automation
 
 ---
-
-**Last Updated:** 2026-03-17
