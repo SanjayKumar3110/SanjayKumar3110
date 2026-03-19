@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjay
 
-### **Data Scientist | Machine Learning Engineer | AI & DS Student**
+### **Data Scientist | Machine Learning Engineer | Python Developer**
 
 I'm passionate about building intelligent systems, solving real-world problems with data, and exploring the intersection of **Machine Learning, Deep Learning, and AI Engineering**.
 
